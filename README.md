@@ -27,7 +27,8 @@ This repo contains the training code for:
 - Download kaggle dataset from:  
 [https://www.kaggle.com/competitions/leash-BELKA/data](https://www.kaggle.com/competitions/physionet-ecg-image-digitization/data)
 
-- Download processed dataset (hand-annotated gridpoint) from:
+- Download processed dataset (hand-annotated gridpoint) from:  
+https://drive.google.com/drive/folders/1pxC707J5uuBjWKOfBPbm6VfwxapVkWkR?usp=sharing
 
 
 ## 4. Training the model
@@ -54,7 +55,8 @@ python run_train.py
 ```
 
 ## 6. Reference trained models and validation results
-- Reference training results can also be found in the share google drive below. It includes train log files, models, etc
+- Reference training results can also be found in the share google drive below. It includes train log files, models, etc.  
+https://drive.google.com/drive/folders/1pxC707J5uuBjWKOfBPbm6VfwxapVkWkR?usp=sharing
 
 ## Authors
 
