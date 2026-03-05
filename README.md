@@ -25,7 +25,7 @@ This repo contains the training code for:
 ```
 
 - Download kaggle dataset from:  
-[https://www.kaggle.com/competitions/leash-BELKA/data](https://www.kaggle.com/competitions/physionet-ecg-image-digitization/data)
+[https://www.kaggle.com/competitions/physionet-ecg-image-digitization/data](https://www.kaggle.com/competitions/physionet-ecg-image-digitization/data)
 
 - Download processed dataset (hand-annotated gridpoint) from:  
 https://drive.google.com/drive/folders/1pxC707J5uuBjWKOfBPbm6VfwxapVkWkR?usp=sharing
