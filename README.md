@@ -29,6 +29,7 @@ This repo contains the training code for:
 
 - Download processed dataset (hand-annotated gridpoint) from:  
 https://drive.google.com/drive/folders/1pxC707J5uuBjWKOfBPbm6VfwxapVkWkR?usp=sharing
+https://www.kaggle.com/datasets/hengck23/hengcker-physionet-training-data-for-stage0-stage1  
 
 
 ## 4. Training the model
@@ -57,6 +58,7 @@ python run_train.py
 ## 6. Reference trained models and validation results
 - Reference training results can also be found in the share google drive below. It includes train log files, models, etc.  
 https://drive.google.com/drive/folders/1pxC707J5uuBjWKOfBPbm6VfwxapVkWkR?usp=sharing
+https://www.kaggle.com/datasets/hengck23/hengcker-physionet-training-data-for-stage0-stage1  
 
 ## Authors
 
